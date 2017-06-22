@@ -1,0 +1,32 @@
+{
+  "name": "saintseiya",
+  "version": "1.0.0",
+  "description": "Julive front-end framework",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suchcl/SaintSeiya.git"
+  },
+  "keywords": [
+    "Julive",
+    "front-end",
+    "framework"
+  ],
+  "author": "Julive Front-end Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suchcl/SaintSeiya/issues"
+  },
+  "homepage": "https://github.com/suchcl/SaintSeiya#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.2",
+    "gulp-sourcemaps": "^2.6.0"
+  }
+}
